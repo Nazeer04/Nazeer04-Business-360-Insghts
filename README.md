@@ -164,7 +164,7 @@ This dashboard will help AtliQ Hardware make informed decisions based on data. I
 ---
 
 ### Contact
-For any questions or suggestions, feel free to [contact me on LinkedIn](www.linkedin.com/in/shaiknazeerbasha/)
+For any questions or suggestions, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/shaiknazeerbasha/)
 
 
 
