@@ -106,11 +106,66 @@ Understanding the dataset is critical for accurate analysis. The dataset contain
 --
 ## Importing Data into Power BI
 The dataset is sourced from a MySQL database. The data is imported into Power BI by providing the database access credentials.
+
+----
+## Data Modeling
+Data modeling forms the foundation of the Power BI report. Poor data modeling can negatively impact report performance. In this project, we followed the **Snowflake Data Modeling Method** to ensure efficiency and scalability.
+
+![DATA MODEL]
+(https://github.com/user-attachments/assets/d8824228-8a0b-4fae-9750-025894b60251)
+
 ----
 
+## Dashboard Design
+Based on the received mockups, the team designed various views and created necessary measures for the dashboard:
 
+## Home View: 
+A landing page with navigation buttons for all views.
 
+![HOME](https://github.com/user-attachments/assets/f53436a0-6edc-4717-8b51-c4b2a3f6d220)
 
+## Info:
+
+![INFO](https://github.com/user-attachments/assets/2e6913ec-ad4e-487f-9956-c10d1533a367)
+
+## Finance View: 
+Key financial metrics and insights.
+
+![FINANCE](https://github.com/user-attachments/assets/0bc44378-125b-4bf4-beb7-831a7354288f)
+
+## Sales View:
+Sales performance across markets and channels.
+
+![SALES](https://github.com/user-attachments/assets/af93fb0d-dfcf-4ce9-ad65-45d4951f94bc)
+
+## Marketing View:
+Marketing KPIs and campaign performance.
+
+ ![MARKETING](https://github.com/user-attachments/assets/d5b37814-97be-49b5-bcb8-9296f7e313c1)
+ 
+## Supply Chain View: 
+Insights into the supply chain and inventory management.
+
+![SUPPLY CHAIN](https://github.com/user-attachments/assets/4d036fff-d5c4-443a-90c1-255422b3ab1a)
+
+-bcb8-9296f7e313c1)
+
+## Executive View: 
+High-level executive summary of business performance.
+
+![EXECUTIVE](https://github.com/user-attachments/assets/ed0a124f-5744-42c9-b462-9c6e1ee5331c)
+
+## Support:
+
+![SUPPORT](https://github.com/user-attachments/assets/590d6f72-ad36-4d2c-8f45-60073ded884a)
+
+## Project Outcome
+This dashboard will help AtliQ Hardware make informed decisions based on data. It answers several critical business questions and supports deeper analysis in areas like Finance, Sales, Marketing, and Supply Chain.
+
+---
+
+### Contact
+For any questions or suggestions, feel free to [contact me on LinkedIn]
 
 
 
