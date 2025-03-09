@@ -103,7 +103,7 @@ Understanding the dataset is critical for accurate analysis. The dataset contain
 - **pre_invoice_deductions**: Pre-invoice deductions percentage for customers.
 - **post_invoice_deductions**: Post-invoice deductions and additional deductions.
 
---
+
 ## Importing Data into Power BI
 The dataset is sourced from a MySQL database. The data is imported into Power BI by providing the database access credentials.
 
@@ -164,7 +164,7 @@ This dashboard will help AtliQ Hardware make informed decisions based on data. I
 ---
 
 ### Contact
-For any questions or suggestions, feel free to [contact me on LinkedIn]
+For any questions or suggestions, feel free to [contact me on LinkedIn](www.linkedin.com/in/shaiknazeerbasha)
 
 
 
