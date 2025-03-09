@@ -58,16 +58,57 @@ AtliQ Hardware has experienced rapid growth in recent years. To maintain a compe
 
 AtliQ Hardware has grown rapidly and expanded globally, selling computers and accessories through:
 
-**Retailers**
-**Direct Sales**
+**Retailers**  
+**Direct Sales**  
 **Distributors**
+
 Recently, the company faced unexpected losses after opening a store in America based on intuition instead of data. Meanwhile, competitors used analytics to make smarter decisions.
 
 To stay competitive, AtliQ Hardware is now building an analytics team to make data-driven decisions and gain valuable business insights.
 
 ---------
 
-Project Kickoff: Setting the Foundation
+**Project Kickoff: Setting the Foundation**
+
+During the project kickoff, it is essential to clarify all aspects of the project, including:
+- The objective of building the Power BI dashboard.
+- Success metrics for the project.
+- Project timeline and deadlines.
+- Stakeholder expectations for previews before the final release.
+- Fears or concerns stakeholders have about the project.
+- The purpose of the dashboard and who will be using it.
+- Stakeholder expectations and possible risks.
+- Required resources and data for dashboard development.
+- Stakeholder input on dashboard design and views.
+
+--------
+
+## Dataset Understanding
+Understanding the dataset is critical for accurate analysis. The dataset contains:
+
+- **Dimension Table**: Static data such as customer and product details.
+- **Fact Table**: Transactional data for sales and forecasting.
+
+-------
+
+### Key Tables
+- **dim_customer**: Contains customer information across 27 markets and two platforms (Brick & Mortar, E-commerce).
+- **dim_market**: Contains market details across 27 markets, seven sub-zones, and four regions.
+- **dim_product**: Product data across divisions (Peripherals, PC, Networking, etc.).
+- **fact_forecast_monthly**: Forecasting customer demand to improve satisfaction and reduce warehouse costs.
+- **fact_sales_monthly**: Sales data, structured similarly to the forecast table, but with actual sales values.
+- **freight_cost**: Travel and other costs per market.
+- **gross_price**: Gross prices by product code.
+- **manufacturing_cost**: Manufacturing costs by product and year.
+- **pre_invoice_deductions**: Pre-invoice deductions percentage for customers.
+- **post_invoice_deductions**: Post-invoice deductions and additional deductions.
+
+--
+## Importing Data into Power BI
+The dataset is sourced from a MySQL database. The data is imported into Power BI by providing the database access credentials.
+----
+
+
 
 
 
