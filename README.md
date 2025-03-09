@@ -111,8 +111,7 @@ The dataset is sourced from a MySQL database. The data is imported into Power BI
 ## Data Modeling
 Data modeling forms the foundation of the Power BI report. Poor data modeling can negatively impact report performance. In this project, we followed the **Snowflake Data Modeling Method** to ensure efficiency and scalability.
 
-![DATA MODEL]
-(https://github.com/user-attachments/assets/d8824228-8a0b-4fae-9750-025894b60251)
+![DATA MODEL](https://github.com/user-attachments/assets/d8824228-8a0b-4fae-9750-025894b60251)
 
 ----
 
